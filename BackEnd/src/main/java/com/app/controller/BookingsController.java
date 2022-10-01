@@ -126,7 +126,7 @@ public class BookingsController {
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
 				// TODO Auto-generated method stub
-				return new PasswordAuthentication("wander.wonder45007@gmail.com", "Wander@45007");
+				return new PasswordAuthentication("wander.wonder45007@gmail.com", "******");
 			}
 		});
 session.setDebug(true);
